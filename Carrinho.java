@@ -1,3 +1,4 @@
+//Código feito por Carlos Felipe
 package LojaVirtual.modelo;
 
 import java.util.ArrayList;
