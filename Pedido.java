@@ -1,3 +1,4 @@
+//Código feito por Paulo George
 package LojaVirtual.modelo;
 
 import LojaVirtual.util.StatusPedido;
