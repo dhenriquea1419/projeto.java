@@ -1,3 +1,4 @@
+//Código feito por Caio Reis
 package LojaVirtual.modelo;
 
 public class Cliente extends Pessoa {
