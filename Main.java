@@ -1,4 +1,4 @@
-//Código feito por Daniel 
+//Código feito por Daniel Henrique
 package LojaVirtual;
 
 import LojaVirtual.modelo.*;
