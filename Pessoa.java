@@ -1,3 +1,5 @@
+//Código feito por Gustavo Albuquerque
+
 package LojaVirtual.modelo;
 
 public abstract class Pessoa {
